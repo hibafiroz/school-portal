@@ -57,7 +57,7 @@ const profile = (req, res) => {
 
 //Student List
 const studentList = (req, res) => {
-   const currentUser = req.user;
+  const currentUser = req.user;
   const students = userList.filter(u => u.role === 'student');
 
   res.render('studentList', {
