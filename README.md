@@ -2,8 +2,6 @@
 
 A full-stack school management web application built with **Node.js**, **Express.js**, and **EJS**, featuring **JWT authentication**, **role-based access**, **real-time chat using Socket.io**, **file uploads using Multer**, **responsive UI with Tailwind CSS**, and **JSON-based local data storage**.
 
-This project demonstrates backend and full-stack fundamentals including secure authentication, protected routes, MVC architecture, bulletin management, real-time messaging, file uploads, and complete CRUD operations.
-
 ---
 
 ## Features  
