@@ -93,15 +93,6 @@ Tokens are validated through middleware to protect Admin and Student routes.
 
 ---
 
-## Future Improvements  
-
-- Replace JSON storage with MongoDB  
-- Dashboard analytics  
-- Role-based permissions expansion  
-- Pagination & search  
-
----
-
 ## 📄 License  
 
 Open-source project for learning purposes.
