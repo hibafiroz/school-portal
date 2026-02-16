@@ -4,7 +4,7 @@ A full-stack school management web application built with **Node.js**, **Express
 
 ---
 
-## Features  
+## 🚀 Features  
 
 ### Authentication & Roles  
 - JWT-based authentication (Register / Login / Logout)  
